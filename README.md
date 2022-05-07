@@ -29,7 +29,7 @@
 
 </p>
 
-# pre-requisitos
+# Pre-requisitos
 <p>Ter instalado em sua máquina as seguintes ferramentas:
 
 •  Java  JDK 14 (openjdk) </br> 
