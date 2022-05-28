@@ -1,18 +1,7 @@
-<h1 align="center">API  Rest básica com Spring Boot em Java</h1>
-
-<p align="center">Criação de uma API Rest básica em Java com Spring Boot e MySQL</p>
-
-
-<p align="center"> 
- <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> 
- 
-</p>
+<h1>API  Rest básica com Spring Boot em Java</h1>
 
 # Sobre
-<p>Criação de uma API para consultar dados de um usuário</p>
+<p>Criação de uma API REST para consultar dados de um usuário em Java com Spring Boot e MySQL</p>
 
 # Objetivo
 <p>
