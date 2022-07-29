@@ -1,10 +1,6 @@
 # API Rest com Spring Boot em Java
 
 
-## Sobre
-
-Criação de uma API REST para consultar dados de um usuário em Java com Spring Boot e MySQL
-
 ## Objetivo
 
  Consulta de status do usuário, para verificar se está online
