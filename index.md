@@ -19,8 +19,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Pré-requisitos
 
-```markdown
-
 Ter instalado em sua máquina as seguintes ferramentas:
 
 -  Java  JDK 14 (openjdk)
